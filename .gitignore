@@ -1,0 +1,23 @@
+# 构建产物
+bin/
+*.exe
+*.out
+
+# Go
+*.test
+*.prof
+
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# 临时/个人
+scene.json
+level.json
+model.obj
+model.stl
+model.glb
+usage.json
+task_queue.jsonl
+*.zip
